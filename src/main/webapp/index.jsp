@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World with OpenShift. Java Web Update !</h2>
+<h2>Openshift Demo</h2>
 </body>
 </html>
