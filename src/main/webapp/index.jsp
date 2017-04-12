@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Openshift Demo Update TEST</h2>
+<h2>Openshift Demo Update 2</h2>
 </body>
 </html>
